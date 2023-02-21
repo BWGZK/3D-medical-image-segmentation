@@ -1,2 +1,2 @@
 # 3D-medical-image-segmentation
-3D medical image segmentation based on UNet
+A simple 3D medical image segmentation based on UNet :)
